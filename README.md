@@ -1,7 +1,6 @@
-### Hi there 👋
-
+# 👋🏻 Hey,
 <div align="center">
-  <p>
-    <img src="https://source.unsplash.com/collection/9749465/1600x900">
-  </p>
+	<br>
+  <img src="https://source.unsplash.com/collection/9749465/1600x900">
+	<br>
 </div>
